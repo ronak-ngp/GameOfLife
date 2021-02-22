@@ -1,0 +1,6 @@
+C:\ozow\GameofLife-master\GameofLife-master\GameOfLifeO\bin\Debug\GameOfLifeO.exe.config
+C:\ozow\GameofLife-master\GameofLife-master\GameOfLifeO\bin\Debug\GameOfLifeO.exe
+C:\ozow\GameofLife-master\GameofLife-master\GameOfLifeO\bin\Debug\GameOfLifeO.pdb
+C:\ozow\GameofLife-master\GameofLife-master\GameOfLifeO\obj\Debug\GameOfLifeO.csprojAssemblyReference.cache
+C:\ozow\GameofLife-master\GameofLife-master\GameOfLifeO\obj\Debug\GameOfLifeO.exe
+C:\ozow\GameofLife-master\GameofLife-master\GameOfLifeO\obj\Debug\GameOfLifeO.pdb

@@ -1,0 +1,16 @@
+C:\ozow\GameofLife-master\GameofLife-master\GameOfLifeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ozow\GameofLife-master\GameofLife-master\GameOfLifeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ozow\GameofLife-master\GameofLife-master\GameOfLifeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ozow\GameofLife-master\GameofLife-master\GameOfLifeUnitTest\bin\Debug\GameOfLifeUnitTest.dll
+C:\ozow\GameofLife-master\GameofLife-master\GameOfLifeUnitTest\bin\Debug\GameOfLifeUnitTest.pdb
+C:\ozow\GameofLife-master\GameofLife-master\GameOfLifeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ozow\GameofLife-master\GameofLife-master\GameOfLifeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ozow\GameofLife-master\GameofLife-master\GameOfLifeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ozow\GameofLife-master\GameofLife-master\GameOfLifeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ozow\GameofLife-master\GameofLife-master\GameOfLifeUnitTest\obj\Debug\GameOfLifeUnitTest.csprojAssemblyReference.cache
+C:\ozow\GameofLife-master\GameofLife-master\GameOfLifeUnitTest\obj\Debug\GameOfLifeUnitTest.csproj.CopyComplete
+C:\ozow\GameofLife-master\GameofLife-master\GameOfLifeUnitTest\obj\Debug\GameOfLifeUnitTest.dll
+C:\ozow\GameofLife-master\GameofLife-master\GameOfLifeUnitTest\obj\Debug\GameOfLifeUnitTest.pdb
+C:\ozow\GameofLife-master\GameofLife-master\GameOfLifeUnitTest\bin\Debug\GameOfLifeO.exe
+C:\ozow\GameofLife-master\GameofLife-master\GameOfLifeUnitTest\bin\Debug\GameOfLifeO.pdb
+C:\ozow\GameofLife-master\GameofLife-master\GameOfLifeUnitTest\bin\Debug\GameOfLifeO.exe.config
